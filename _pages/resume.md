@@ -6,6 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+Please see my [Resume](jaxaax.github.io/files/Resume.pdf)
+
 {% comment %}
 {% include base_path %}
 
