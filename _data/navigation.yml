@@ -7,13 +7,13 @@ main:
 
   
   - title: "Work Experience"
-    url: /publications/
+    url: /work experience/
 
   - title: "Academic Experience"
-    url: /talks/    
+    url: /academic experience/    
 
   - title: "Resume"
-    url: /cv/
+    url: /resume/
 
   - #title: "Teaching"
     #url: /teaching/    
