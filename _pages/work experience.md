@@ -4,7 +4,7 @@ title: "Work Experience"
 permalink: /work experience/
 author_profile: true
 ---
-
+---
 [**EY-Parthenon**](https://www.ey.com/en_gl/locations/greater-china#ey-parthenon-shanghai)  
 *Strategy Analyst Intern* <span style="float:right;">*Jun 2023 - Sep 2023*</span>
 <div style="clear:both;"></div>

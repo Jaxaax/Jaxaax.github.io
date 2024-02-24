@@ -1,19 +1,30 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 # excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+---
 Hi! I'm Aoqin, a senior undergraduate student at the University of Pittsburgh, where I will be graduating in Spring 2024 with a B.S. in [Finance](https://cba.pitt.edu/academics/business-majors/finance/), a B.A. in [Philosophy](https://www.philosophy.pitt.edu/), a minor in Economics, along with a [Certificate in Business Analytics](https://cba.pitt.edu/academics/certificates/certificate-program-in-business-analytics/). 
 
 My academic journey stands out for its diverse interdisciplinary blend, integrating the analytical rigor of Finance, the critical thinking of Philosophy, and the data-driven insights of Business Analytics. This distinctive combination has equipped me with a versatile skill set, enabling me to approach complex problems with a holistic and nuanced perspective.
 
-Throughout my academic and professional engagements, I've leveraged this unique background to contribute across various projects and internships, such as strategic analysis at EY-Parthenon and equity research at China Capital Management Co., LTD. These experiences have sharpened my skills in market analysis, business model evaluation, financial modeling, and the application of advanced data analytics tools. 
-Fun fact: I published one of the industry reports on the liquidity crisis of [Evergrande](https://finance.yahoo.com/quote/EGRNQ?p=EGRNQ) during my internship, at the time when it was still considered too big to fail. Please see my [Resume](https://jaxaax.github.io/files/Resume.pdf) for more details.
+Throughout my academic and professional engagements, I've leveraged this unique background to contribute across various projects and internships, such as strategic analysis at [EY-Parthenon](https://www.ey.com/en_gl/locations/greater-china#ey-parthenon-shanghai) and equity research at [China Capital Management Co., LTD](https://www.crunchbase.com/organization/china-capital-management). These experiences have sharpened my skills in market analysis, business model evaluation, financial modeling, and the application of advanced data analytics tools. 
+
+Fun fact: I published one of the industry reports on the liquidity crisis of [Evergrande](https://finance.yahoo.com/quote/EGRNQ?p=EGRNQ) during my internship, at the time when it was still considered too big to fail. 
+
+Please see my [Resume](https://jaxaax.github.io/files/Resume.pdf) for more details.
+
+---
+
+I am actively seeking job opportunities, internships, or full-time positions in finance or data-related roles. I am eager to bring my analytical skills and interdisciplinary approach to a dynamic team. If you are looking for someone who can blend quantitative analysis with strategic thinking, [let's connect](https://www.linkedin.com/in/aoqin-yan/)!
+
+
+
+
 
 {% comment %}
 Getting started
@@ -51,3 +62,6 @@ For more info
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
 {% endcomment %}
+
+
+

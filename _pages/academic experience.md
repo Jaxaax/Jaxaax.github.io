@@ -4,7 +4,7 @@ title: "Academic Experience"
 permalink: /academic experience/
 author_profile: true
 ---
-
+---
 ### **[Data Analysis Project:](https://github.com/Jaxaax/Data-Analysis_Bank-Churn) Bank Customer Churn Prediction with Machine Learning**  
 *Dec 2023*  
 

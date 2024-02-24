@@ -7,7 +7,15 @@ redirect_from:
   - /resume
 ---
 
-Please see my [Resume.](https://jaxaax.github.io/files/Resume.pdf)
+Please see my [Resume](https://jaxaax.github.io/files/Resume.pdf).
+
+---
+Would like to know more about me beyond a candidate? 
+
+Check out my check my personal [Blogs](https://www.aqy.me) for my interests and insights!
+
+
+
 
 
 {% comment %}
