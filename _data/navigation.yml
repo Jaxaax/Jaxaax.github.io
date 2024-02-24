@@ -3,9 +3,11 @@
 
 main:
   
-  
+  - title: "Work Experience"
+    url: /work experience/ 
 
-  
+  - title: "Academic Experience"
+    url: /academic experience/  
 
   - title: "Resume"
     url: /resume/
