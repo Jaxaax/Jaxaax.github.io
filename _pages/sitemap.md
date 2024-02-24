@@ -9,9 +9,9 @@ author_profile: true
 {% include base_path %}
 
 
-You are currently viewing my site, and here is the [Google Maps](https://www.google.com/maps).
+You are currently viewing my site, and here is the [map.](https://www.google.com/maps)
 
-Just kidding, please nevigate through the bars above for more detailed information.
+Just kidding. Please nevigate through the bars above for more details.
 
 {% comment %}
 <h2>Pages</h2>
