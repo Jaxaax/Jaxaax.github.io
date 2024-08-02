@@ -12,20 +12,21 @@ Hi! I'm Aoqin, an undergraduate student at the University of Pittsburgh, where I
 
 As you might have noticed, my academic journey stands out for its diverse interdisciplinary blend. Through the synergy of these disciplines, I am uniquely positioned to analyze and solve multifaceted challenges in today's fast-paced business environment.
 
---- 
+---
 
-Throughout my academic and professional engagements, I've leveraged my unique background to contribute across various projects and internships, such as strategic analysis at [EY-Parthenon](https://www.ey.com/en_gl/locations/greater-china#ey-parthenon-shanghai) and equity research at [China Capital Management Co., LTD](https://www.crunchbase.com/organization/china-capital-management).
-
-For summer 2024, I am currently working as an MLE intern at [HireBeat](https://hirebeat.co/), on graph databases devlopment, prompt engineering, and AI agents development. These experiences have sharpened my skills in market analysis, business model evaluation, financial modeling, and the application of advanced data analytics tools. 
+Throughout my academic and professional engagements, I've leveraged my unique background to contribute across various projects and internships, such as strategic analysis at [EY-Parthenon](https://www.ey.com/en_gl/locations/greater-china#ey-parthenon-shanghai) and equity research at [China Capital Management Co., LTD](https://www.crunchbase.com/organization/china-capital-management).These experiences have sharpened my skills in market analysis, business model evaluation, financial modeling, and the application of advanced data analytics tools. 
 
 Fun fact: I published one of the industry reports on the liquidity crisis of [Evergrande](https://finance.yahoo.com/quote/EGRNQ?p=EGRNQ) during my internship, at the time when it was still considered too big to fail. 
 
-Please see my [Resume](https://jaxaax.github.io/files/Resume.pdf) for more details.
+---
+
+Since summer 2024, I have been working as an MLE intern at [HireBeat](https://hirebeat.co/), focusing on graph databases development, prompt engineering, and AI agents development. I am thrilled to be making significant contributions to an innovative product that is set to launch soon, marking a major milestone for myself and our team.
 
 ---
 
-I am actively seeking job opportunities, internships or full-time positions in finance or data-related roles. I am eager to bring my analytical skills and interdisciplinary approach to a dynamic team. If you are looking for someone who can blend quantitative analysis with strategic thinking, [let's connect](https://www.linkedin.com/in/aoqin-yan/)!
+I will be seeking job opportunities, internships or full-time positions in finance or data-related roles. I am eager to bring my analytical skills and interdisciplinary approach to a dynamic team. If you are looking for someone who can blend quantitative analysis with strategic thinking, [let's connect](https://www.linkedin.com/in/aoqin-yan/)!
 
+Please see my [Resume](https://jaxaax.github.io/files/Resume.pdf) for more details.
 
 
 
