@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 ---
-Hi! I'm Aoqin, an undergraduate student at the University of Pittsburgh, where I will be graduating in Spring 2025 with a B.S. in [Finance](https://cba.pitt.edu/academics/business-majors/finance/), a second B.S. in [Business Information Systems](https://cba.pitt.edu/academics/business-majors/business-information-systems/), a B.A. in [Philosophy](https://www.philosophy.pitt.edu/), a minor in Economics, along with a [Certificate in Business Analytics](https://cba.pitt.edu/academics/certificates/certificate-program-in-business-analytics/). 
+Hi! I'm Aoqin, an undergraduate student at the University of Pittsburgh, where I will be graduating in Spring 2025 with a B.S. in [Finance](https://cba.pitt.edu/academics/business-majors/finance/), a second B.S. in [Business Information Systems](https://cba.pitt.edu/academics/business-majors/business-information-systems/), a B.A. in [Philosophy](https://www.philosophy.pitt.edu/), minors in Mathematics and Economics, along with a [Certificate in Business Analytics](https://cba.pitt.edu/academics/certificates/certificate-program-in-business-analytics/). 
 
-As you might have noticed, my academic journey stands out for its diverse interdisciplinary blend: Integrating the analytical rigor of Finance, the critical thinking of Philosophy, and the data-driven insights of Business Analytics.
+As you might have noticed, my academic journey stands out for its diverse interdisciplinary blend. Through the synergy of these disciplines, I am uniquely positioned to analyze and solve multifaceted challenges in today's fast-paced business environment.
 
-Recently, I've expanded this diverse portfolio by pursuing a third major in Business Information Systems (BIS). This addition further enriches my skill set, bridging the gap between technical information systems and business strategies. Through the synergy of these disciplines, I am uniquely positioned to analyze and solve multifaceted challenges in today's fast-paced business environment.
+--- 
 
-Throughout my academic and professional engagements, I've leveraged my unique background to contribute across various projects and internships, such as strategic analysis at [EY-Parthenon](https://www.ey.com/en_gl/locations/greater-china#ey-parthenon-shanghai) and equity research at [China Capital Management Co., LTD](https://www.crunchbase.com/organization/china-capital-management). These experiences have sharpened my skills in market analysis, business model evaluation, financial modeling, and the application of advanced data analytics tools. 
+Throughout my academic and professional engagements, I've leveraged my unique background to contribute across various projects and internships, such as strategic analysis at [EY-Parthenon](https://www.ey.com/en_gl/locations/greater-china#ey-parthenon-shanghai) and equity research at [China Capital Management Co., LTD](https://www.crunchbase.com/organization/china-capital-management).
+
+For summer 2024, I am currently working as an MLE intern at [HireBeat](https://hirebeat.co/), on graph databases devlopment, prompt engineering, and AI agents development. These experiences have sharpened my skills in market analysis, business model evaluation, financial modeling, and the application of advanced data analytics tools. 
 
 Fun fact: I published one of the industry reports on the liquidity crisis of [Evergrande](https://finance.yahoo.com/quote/EGRNQ?p=EGRNQ) during my internship, at the time when it was still considered too big to fail. 
 
